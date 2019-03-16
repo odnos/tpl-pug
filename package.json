@@ -1,0 +1,26 @@
+{
+  "name": "tplpugless",
+  "version": "0.1.0",
+  "devDependencies": {
+    "@cmyee/pushy": "latest",
+    "@fancyapps/fancybox": "latest",
+    "grunt": "latest",
+    "grunt-browser-sync": "latest",
+    "grunt-contrib-clean": "latest",
+    "grunt-contrib-copy": "latest",
+    "grunt-contrib-imagemin": "latest",
+    "grunt-contrib-less": "latest",
+    "grunt-contrib-pug": "latest",
+    "grunt-contrib-uglify": "latest",
+    "grunt-contrib-watch": "latest",
+    "grunt-spritesmith": "latest",
+    "imagemin-gifsicle": "latest",
+    "imagemin-mozjpeg": "latest",
+    "imagemin-optipng": "latest",
+    "imagemin-svgo": "latest",
+    "jit-grunt": "latest",
+    "jquery": "latest",
+    "less-plugin-autoprefix": "latest",
+    "normalize.css": "latest"
+  }
+}
